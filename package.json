@@ -1,6 +1,6 @@
 {
   "name": "sort-keys-by-value",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sort keys in an object by the value of the property",
   "main": "index.js",
   "scripts": {
