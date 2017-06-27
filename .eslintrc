@@ -3,5 +3,11 @@
   "env": {
     "mocha": true,
     "node": true
+  },
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "rules": {
+    "strict": [2, "global"]
   }
 }
