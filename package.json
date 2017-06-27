@@ -1,0 +1,30 @@
+{
+  "name": "sort-keys-by-value",
+  "version": "0.0.0",
+  "description": "Sort keys in an object by the value of the property",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && mocha"
+  },
+  "repository": "navdeepsinghkhalsa/sort-keys-by-value",
+  "keywords": [
+    "sort",
+    "object",
+    "keys",
+    "values",
+    "obj",
+    "key",
+    "value"
+  ],
+  "author": "Navdeep Singh <me@navdeepsingh.ca>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.6.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "is-plain-obj": "^1.1.0"
+  }
+}
